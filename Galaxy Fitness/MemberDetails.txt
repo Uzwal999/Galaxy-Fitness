@@ -1,0 +1,1 @@
+ID    Name            Location        Phone           Email                     Start Date           Plan       Price      Attendance Loyalty         Active     Full Pay        Discount        Net Paid       
